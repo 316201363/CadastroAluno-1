@@ -1,10 +1,9 @@
                                                              Cadastro de aluno
 
 RA:
-
-
 Nome:
-
+Sexo:
 Telefone:
-
 E-mail:
+Endereço:
+
